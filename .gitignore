@@ -2,3 +2,4 @@
 .env
 *.csv
 exports/*.csv
+.DS_Store
